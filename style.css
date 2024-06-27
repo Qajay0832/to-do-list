@@ -1,0 +1,57 @@
+body {
+    margin: 3rem;
+}
+
+.title {
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.inputFields {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.task {
+    height: 3rem;
+    width: 35rem;
+}
+
+.date {
+    height: 3rem;
+    width: 20rem;
+}
+
+.priority {
+    height: 3rem;
+    width: 15rem;
+}
+
+.addBtn {
+    height: 3rem;
+    width: 10rem;
+    color: white;
+    background-color: black;
+}
+h2{
+    font-size: 40px;
+    font-weight: 500;
+}
+.todo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 1rem;
+    padding: 0 1rem;
+    font-size: 1.5rem;
+    margin: 2rem 0;
+}
+.imgBtn{
+    cursor: pointer;
+}
